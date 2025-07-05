@@ -23,3 +23,4 @@ Host private-server
     User ubuntu
     IdentityFile /Users/samyakmittal/Downloads/private-key.pem
     ProxyJump bastion
+This is the project link: https://roadmap.sh/projects/bastion-host
